@@ -1,6 +1,6 @@
 # Spot-Mask-Challenge
 
-[Zindi Challenge](https://zindi.africa/competitions/spot-the-maskg)
+[Zindi Challenge](https://zindi.africa/competitions/spot-the-mask)
 
 ## Description
 
